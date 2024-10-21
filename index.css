@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+}
+form{
+    border: dotted 2px red;
+    margin: 50px;
+    padding: 100px;
+}
